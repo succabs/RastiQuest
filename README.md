@@ -1,6 +1,10 @@
 # RastiQuest
 
-TODO introduction
+React app for creating and carrying out activities for your group.
+
+Currently in development.
+
+Used technologies: HTML, CSS, JS, React, Bootstrap
 
 ## How to run
 
